@@ -36,7 +36,7 @@ def test_3_2_1():
     # Then:
     assert m == 2
 
-def test_3_3_5():
+def test_5_5_5():
     # Given three numbers
     x = 5
     y = 5
